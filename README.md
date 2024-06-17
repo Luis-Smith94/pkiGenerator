@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # pkiGenerator
 A simple bash script that builds one PKI for certificate testing purpose
 =======
@@ -29,4 +28,3 @@ Passphrase for key encryption ? Strongpass321!
 ## Needs
 - OpenSSL ( Tested on 3.0.7 )
 - Expect ( Tested on 5.45.4 )
->>>>>>> 909089c (The initial commit: Add conf files and the scripts)
